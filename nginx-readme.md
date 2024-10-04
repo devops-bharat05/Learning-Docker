@@ -1,7 +1,3 @@
-### **NGINX Detailed README**
-
-# NGINX
-
 ## **Table of Contents**
 
 1. [Introduction to NGINX](#introduction-to-nginx)
