@@ -18,7 +18,13 @@
     - Caching Configuration
     - Gzip Compression Configuration
     - Logging Configuration
-6. [Conclusion](#conclusion)
+7. [NGINX Performance Tuning](#nginx-performance-tuning)
+8. [NGINX Security Configurations](#nginx-security-configurations)
+9. [NGINX Load Balancing Algorithms](#nginx-load-balancing-algorithms)
+10. [NGINX Monitoring and Logging](#nginx-monitoring-and-logging)
+11. [NGINX as a Content Delivery Network (CDN)](#nginx-content-delivery-network)
+12. [NGINX for Microservices and APIs](#nginx-for-microservices-and-apis)
+13. [NGINX High Availability (HA) Setup](#nginx-high-availability-setup)
 
 ---
 
